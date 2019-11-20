@@ -1,2 +1,2 @@
 # BuddyEats
-An app that provides easy buddy system for all three meals of the day.
+An app written in Swift that provides easy buddy system for all three meals of the day.
